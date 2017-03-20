@@ -1,0 +1,7 @@
+{
+   "Projection": {
+            "NonKeyAttributes": ["FirstName"],
+            "ProjectionType": "INCLUDE"
+   }
+
+}
